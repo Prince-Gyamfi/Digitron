@@ -6,7 +6,9 @@
 </h3>
 </div>  
   
-  
+   <h2 align="center">Deployed Link</h2>
+  <h3 align="center">Frontend: https://digitron-prince.vercel.app/dashboard </h3>
+   <h3 align="center">Backend: https://hackathon-o2kz.onrender.com </h3>
 
 
 <h2 align="center">Tech Stack</h2>
