@@ -2,7 +2,7 @@
 <h2>Digitron: The Ultimate Tech Interview Simulator<h2>
 
 <h2 align="center">Description </h2>
-<h3>Digitron provides you a platform where you can select your tech stack and give one on one interviews with our AI. Our platform also provides you a Q and A section where you can ask any general queries to our AI and also a Study material section where you can read about different tech stacks.
+<h3>Digitron is designed to revolutionize the way tech professionals prepare for job interviews. This cutting-edge platform leverages advanced technologies including React, Node.js, Express.js, and MongoDB, integrated with OpenAI's powerful AI capabilities, to simulate a wide range of interview scenarios. Whether you’re preparing for software development, full-stack roles, or any position in the tech industry, Digitron offers a dynamic and interactive experience that adapts to your learning pace and needs.
 </h3>
 </div>  
   
